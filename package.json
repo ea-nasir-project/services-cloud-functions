@@ -1,0 +1,9 @@
+{
+  "name": "services-cloud-functions",
+  "version": "1.0.0",
+  "type": "module",
+  "packageManager": "yarn@4.6.0",
+  "engines": {
+    "node": ">=22"
+  }
+}
